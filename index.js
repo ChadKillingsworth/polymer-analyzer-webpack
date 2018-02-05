@@ -181,4 +181,4 @@ class PolymerAnalyzerPlugin {
   }
 }
 
-module.exports = PolymerRenamePlugin;
+module.exports = PolymerAnalyzerPlugin;
