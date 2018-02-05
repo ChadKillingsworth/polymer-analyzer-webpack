@@ -1,0 +1,21 @@
+{
+  "name": "polymer-analyzer-webpack",
+  "version": "0.0.1",
+  "description": "Integrate polymer-analyzer with webpack",
+  "main": "index.js",
+  "author": "Chad Killingsworth <chadkillingsworth@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "polymer-analyzer": "3.0.0-pre.10",
+    "vscode-uri": "^1.0.1"
+  },
+  "engines": {
+    "node": ">= 6.9.0 || >= 8.9.0"
+  },
+  "peerDependencies": {
+    "webpack": "^3.0.0 || ^4.0.0"
+  },
+  "homepage": "https://github.com/ChadKillingsworth/polymer-analyzer-webpack",
+  "repository": "https://github.com/ChadKillingsworth/polymer-analyzer-webpack",
+  "bugs": "https://github.com/ChadKillingsworth/polymer-analyzer-webpack/issues"
+}
